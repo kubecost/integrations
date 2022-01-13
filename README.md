@@ -2,7 +2,9 @@
 
 This is a directory of third-party Kubecost integrations and partnerships along with relevant links and documentation.
 
-We do our best to keep this list up to date. If there is a Kubecost integration you'd like to see in this list, we'd love to hear from you on our [Slack](https://join.slack.com/t/kubecost/shared_invite/enQtNTA2MjQ1NDUyODE5LWFjYzIzNWE4MDkzMmUyZGU4NjkwMzMyMjIyM2E0NGNmYjExZjBiNjk1YzY5ZDI0ZTNhZDg4NjlkMGRkYzFlZTU) or in this repository's [Issues](https://github.com/kubecost/integrations/)!
+We do our best to keep this list up to date. If you'd like to suggest any other Kubecost integrations, please reach out to us on [Slack](https://join.slack.com/t/kubecost/shared_invite/enQtNTA2MjQ1NDUyODE5LWFjYzIzNWE4MDkzMmUyZGU4NjkwMzMyMjIyM2E0NGNmYjExZjBiNjk1YzY5ZDI0ZTNhZDg4NjlkMGRkYzFlZTU) or in this repository's [Issues](https://github.com/kubecost/integrations/).
+
+Equally, if you're a K8s tooling or services provider looking to offer Kubecost integrations to your customers, we'd love to hear from you too!
 
 ## 🛠️ Developer Tools & Kubernetes Management Platforms
 
